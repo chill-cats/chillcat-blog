@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -25,7 +25,7 @@ url                      : "https://blog.chillcat.dev"
 baseurl                  : 
 repository               : "chill-cats/chillcat-blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.svg"
 masthead_title           : "Chill Cat" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,11 +105,11 @@ author:
   avatar           : "/assets/images/profile.jpeg"
   bio              : "I am an **amazing** person."
   location         : "Ho Chi Minh City"
-# email            : "public.hoangnhanlenguyen@gmail.com"
+  email            : "public.hoangnhanlenguyen@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:public.hoangnhanlenguyen@gmail.com"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:public.hoangnhanlenguyen@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://me.chillcat.dev"
