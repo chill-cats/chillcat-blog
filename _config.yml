@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Chillcat Blog"
 title_separator          : "-"
-subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Le Nguyen Hoang Nhan"
 description              : "My personal blog where I share my knowledge about programming for everyone"
 url                      : "https://blog.chillcat.dev"
@@ -26,7 +26,7 @@ baseurl                  :
 repository               : "chill-cats/chillcat-blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.svg"
-masthead_title           : "Chill Cat" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
